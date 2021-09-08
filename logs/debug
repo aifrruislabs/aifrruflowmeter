@@ -1,0 +1,110 @@
+2021-09-08 13:23:38 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter/data/in/
+2021-09-08 13:23:55 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter/data/in/
+2021-09-08 13:24:14 INFO  aifrru.flowmeter.ifm.Cmd    Please select pcap!
+2021-09-08 13:27:35 INFO  aifrru.flowmeter.ifm.Cmd    Please select pcap!
+2021-09-08 13:27:42 INFO  aifrru.flowmeter.ifm.Cmd    Please select pcap!
+2021-09-08 13:28:03 INFO  aifrru.flowmeter.ifm.Cmd    Please select pcap!
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\.gradle (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\.settings (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\build (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\gradle (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\jnetpcap (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\logs (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\src (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\target (Access is denied)
+2021-09-08 14:42:59 DEBUG swing.common.SwingUtils    C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests (Access is denied)
+2021-09-08 14:43:01 DEBUG aifrru.flowmeter.flow.ui.FlowOfflinePane    offline select input C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests
+2021-09-08 14:43:07 DEBUG aifrru.flowmeter.flow.ui.FlowOfflinePane    offline select output C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter
+2021-09-08 14:43:08 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2021-09-08 14:43:09 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:43:09 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:44:15 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2021-09-08 14:44:15 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:44:15 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:44:19 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2021-09-08 14:44:19 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:44:19 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:44:52 INFO  aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-09-08 14:45:04 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-09-08 14:45:04 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    path:C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\data\daily\2021-09-08_Flow.csv
+2021-09-08 14:45:23 INFO  aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-09-08 14:45:27 DEBUG aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2021-09-08 14:45:42 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-09-08 14:45:42 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    path:C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\data\daily\2021-09-08_Flow.csv
+2021-09-08 14:45:43 INFO  aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-09-08 14:46:21 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-09-08 14:46:21 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    path:C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\data\daily\2021-09-08_Flow.csv
+2021-09-08 14:46:22 INFO  aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-09-08 14:46:29 DEBUG aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2021-09-08 14:47:03 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-09-08 14:47:03 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    path:C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\data\daily\2021-09-08_Flow.csv
+2021-09-08 14:47:22 DEBUG aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2021-09-08 14:50:14 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2021-09-08 14:50:14 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:50:14 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :2 pcap files
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\fuzz-2006-06-26-2594.pcap
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    Timeout current has 50 flow
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    Timeout current has 50 flow
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    Timeout current has 100 flow
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*00 30 54 00  34 56 00 e0  ed 01 6e bd  08 00 41 00    .0T.4V....n...A.
+0010: 00 48 6a b3  00 00 80 11  4c 9e f1 a8  01 02 c0 a8    .Hj.....L.......
+0020: 01 01 0a c8  00 35 00 34  70 08 b9 f4  01 00 00 01    .....5.4p.......
+0030: 00 00 00 00  00 00 04 5f  73 69 70 04  5f 75 64 70    ......._sip._udp
+0040: 03 73 69 70  09 63 79 62  65 72 63 69  74 79 02 64    .sip.cybercity.d
+0050: 6b 00 00 21  00 01*                                   k..!..          
+
+
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    Timeout current has 200 flow
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\fuzz-2006-06-26-2594.pcap
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:50:29 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:52:14 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :2 pcap files
+2021-09-08 14:52:15 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\fuzz-2006-06-26-2594.pcap
+2021-09-08 14:52:15 INFO  aifrru.flowmeter.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2021-09-08 14:52:15 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagFIN current has 44 flow
+2021-09-08 14:52:15 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    Timeout current has 50 flow
+2021-09-08 14:52:15 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*00 30 54 00  34 56 00 e0  ed 01 6e bd  08 00 41 00    .0T.4V....n...A.
+0010: 00 48 6a b3  00 00 80 11  4c 9e f1 a8  01 02 c0 a8    .Hj.....L.......
+0020: 01 01 0a c8  00 35 00 34  70 08 b9 f4  01 00 00 01    .....5.4p.......
+0030: 00 00 00 00  00 00 04 5f  73 69 70 04  5f 75 64 70    ......._sip._udp
+0040: 03 73 69 70  09 63 79 62  65 72 63 69  74 79 02 64    .sip.cybercity.d
+0050: 6b 00 00 21  00 01*                                   k..!..          
+
+
+2021-09-08 14:52:15 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\fuzz-2006-06-26-2594.pcap
+2021-09-08 14:52:16 DEBUG aifrru.flowmeter.jnetpcap.worker.ReadPcapFileWorker    Working on... C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 14:52:16 DEBUG aifrru.flowmeter.jnetpcap.PacketReader    Read All packets on C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests\packet.pcap
+2021-09-08 15:37:01 INFO  aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-09-08 15:37:21 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-09-08 15:37:21 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    path:C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\data\daily\2021-09-08_Flow.csv
+2021-09-08 15:37:42 INFO  aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2021-09-08 15:37:45 DEBUG aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2021-09-08 15:37:45 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagRST current has 9 flow
+2021-09-08 15:37:48 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagRST current has 14 flow
+2021-09-08 15:37:48 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagRST current has 14 flow
+2021-09-08 15:37:52 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2021-09-08 15:37:52 INFO  aifrru.flowmeter.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2021-09-08 15:37:53 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2021-09-08 15:37:53 INFO  aifrru.flowmeter.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2021-09-08 15:37:53 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2021-09-08 15:37:53 INFO  aifrru.flowmeter.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2021-09-08 15:37:55 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2021-09-08 15:37:55 INFO  aifrru.flowmeter.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2021-09-08 15:37:56 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2021-09-08 15:37:56 INFO  aifrru.flowmeter.jnetpcap.FlowGenerator    Forward flow closed due to FIN Flag
+2021-09-08 15:37:56 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagRST current has 29 flow
+2021-09-08 15:37:56 DEBUG aifrru.flowmeter.jnetpcap.FlowGenerator    FlagRST current has 29 flow
+2021-09-08 15:38:08 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    Pcap stop listening
+2021-09-08 15:38:08 DEBUG aifrru.flowmeter.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2021-09-08 15:38:08 INFO  aifrru.flowmeter.flow.ui.FlowMonitorPane    path:C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\data\daily\2021-09-08_Flow.csv
+2021-09-08 17:15:23 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter/data/in/
+2021-09-08 17:18:10 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: How
+2021-09-08 17:19:00 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests" C:\Users\ELIJAH\Desktop\Aifruis
+2021-09-08 17:19:33 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: C:\Users\ELIJAH\Desktop\Aifruis LAB\Projects\AifrruFlowMeter\tests" C:\Users\ELIJAH\Desktop\Aifruis
+2021-09-08 17:21:17 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: C:\Users\ELIJAH\Desktop\Aifruis
+2021-09-08 17:23:18 INFO  aifrru.flowmeter.ifm.AifrruFlowMeter    Sorry,no pcap files can be found under: C:\Users\ELIJAH\Desktop\Aifruis
